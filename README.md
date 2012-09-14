@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ro-project-git
 ==============
 
@@ -43,3 +44,7 @@ Step 4:
      A dump of the mysql database has been created with the name "mysqldump.2012.09.13.sql" in order to recreate the table and database used in the project to get the program running. 
 
 NOTE: I have used a local version of mysql,node.js,npm, express.js framework and the tables and the database is also local to my system. In order to execute the program the environment for the running the program including the tables and database among others need to be recreated using the mysqldump file attached along with the rest of the documents. 
+=======
+ToDo
+====
+>>>>>>> e9445e327bf485679b6db8d747254846de308bd4
